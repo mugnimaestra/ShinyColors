@@ -8264,7 +8264,7 @@
 	    trans: ''
 	  });
 	  list.push({
-	    id: '译者',
+	    id: 'Translator',
 	    name: '',
 	    text: '',
 	    trans: ''
