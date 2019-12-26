@@ -6,7 +6,7 @@ ja,zh
 オープニング,Opening
 エンディング,Ending
 覚えられるライブスキルは4つまでです。忘れるスキルを選択して下さい。,You can remember up to 4 live skills. Choose a skill to forget.
-この商品には以下の内容が含まれます,This produce contains the following
+この商品には以下の内容が含まれます,This product contains the following：
 期間中「レッスン」「お仕事」でのトラブル発生率+20％\n期間中「レッスン」「お仕事」で得られるファン数-50％,While Active 「Lessons」「Jobs」 Trouble Rate +20%\nWhile Active 「Lessons」「Jobs」 Fan Rewards -50%
 得意ジャンルが流行１位の時には、積極的にオーディションに参加しましょう♪\n得意ジャンルの審査員へ、集中的にアピールしてくださいね。\n途中でリタイアしてしまわないよう、アイドルのメンタルやオーディションの\n推奨値に注目するのも忘れずに。,Make sure you participate in auditions when your best stat is the No. 1 trend♪\nAppeal strongly to the judge of your best stat.\nDon't retire early、watch your idol's mental in auditions.\nDon't forget to pay attention to the recommend values.
 プロデューサーさん、お疲れ様でした♪\nこの研修で学んだ事を、プロデュースに役立ててくださいね\n『W.I.N.G.』でTrue Endを達成して、アイドルとの絆を深めていきましょう～,"Producer-san, thanks for your hard work♪\nPlease use what you learned in this training for Production\nAchieve a True End in 『W.I.N.G.』, and let's deepen our bonds with the idols~"
@@ -19,7 +19,7 @@ W.I.N.G.編[True End 研修用],W.I.N.G. Run[True End Training]
 今期の記録,Current Term Record
 使用中のアイテムはありません,No Items in Use
 所持SP,SP Owned
-獲得方法,How to Get
+獲得方法,Obtain By
 現在設定中の称号,Set Current Title
 選択中の称号,Selected Title
 サポートアイドルを特訓しよう,Limit Break a Support Idol
@@ -72,7 +72,7 @@ TrueEnd達成数,﻿True Ends Completed
 プロデューサー！\n──だーれだっ！,Producer!\n─Whooo is it!
 あははっ\n簡単すぎたねっ！,あははっ\n簡単すぎたねっ！
 残念！　めぐるだよー！,Sorry! It's Meguru-!
-え、えへへ……っ\nだーれだ……っ！ ,え、えへへ……っ\nだーれだ……っ！ 
+え、えへへ……っ\nだーれだ……っ！,え、えへへ……っ\nだーれだ……っ！
 な、なんで……\nわかったの……！？,な、なんで……\nわかったの……！？
 やった……！\n甜花の、勝ち……！！,やった……！\n甜花の、勝ち……！！
 プロデューサーさんっ\nだーれだっ,プロデューサーさんっ\nだーれだっ
@@ -114,7 +114,7 @@ TrueEnd達成数,﻿True Ends Completed
 えっと……その……\nだ、だーれだ……っ,えっと……その……\nだ、だーれだ……っ
 ほわぁ、正解です、プロデューサーさんっ\nあ……声で誰だかすぐわかっちゃいますよねっ,ほわぁ、正解です、プロデューサーさんっ\nあ……声で誰だかすぐわかっちゃいますよねっ
 ……その、ハズレなんです……\n……急に目隠ししちゃってすみませんでした……っ,……その、ハズレなんです……\n……急に目隠ししちゃってすみませんでした……っ
-ホーム画面でアイドルからイタズラされるかも…？,Idols can be mischievous on the home screen...?
+ホーム画面でアイドルからイタズラされるかも…？,Idols might play a prank on the home screen...?
 事務所(太鼓の達人),Office(Taiko no Tatsujin)
 パーフェクトアピール,Perfect Appeal
 流行順位が高いジャンルは、そのジャンル\r担当審査員からの獲得スターが増加します。,If a judge's stat is a higher trend\rThat judge will give more stars
@@ -125,8 +125,8 @@ TrueEnd達成数,﻿True Ends Completed
 週,Weeks
 審査員,Judge
 プロデュースアイテム,Produce Item
-まとめて消費した数に応じて獲得マニーUP!!,Earn Money Based on the Amount Consumed!!
-フェス参加権を　　消費します,Consumes a Fes Entry
+まとめて消費した数に応じて獲得マニーUP!!,Earn Money Per Fes Entry Used!!
+フェス参加権を　　消費します,Consumes          Entries
 難易度ボーナス,Difficulty Bonus
 特訓4回目で解放,Unlocked at Limit Break 4
 特訓3回目で解放,Unlocked at Limit Break 3
@@ -137,7 +137,7 @@ TrueEnd達成数,﻿True Ends Completed
 誕生日プレゼント,Birthday Present
 アイテム所持数,Items Owned
 所持数,Owned
-最大所持数:,Max Owned:
+最大所持数:,Max:
 同じ効果のプロデュースアイテムを複数持ち込む\nことはできません,You are not able to\nBring Produce Items with the Same Effect
 アイテムを\n選択していません,No Items\nSelected
 レッスンやお仕事、オーディションを通してアイドルをプロデュースできます。ファンを集めて各シーズン目標を達成し、W.I.N.G.優勝を目指しましょう！,Produce Idols through Lessons、 Work、and Auditions. Reach the fan goal of each season、then aim to win W.I.N.G.!
@@ -146,13 +146,13 @@ W.I.N.G.編シーズン２をクリアしフェスアイドルを誕生させる
 プロデュース選択,Produce Selection
 ユニット編成,Organize Unit
 アイテム選択,Item Selection
-最大100件一度に受け取ることが可能です。\r達成済みのミッションは未達成のミッションの下部に表示されます。,You can receive up to 100 at a time. \rCompleted Missions are displayed below Unfinished Missions
-最大100件一度に受け取ることが可能です\r達成済みのミッションは未達成のミッションの下部に表示されます,You can receive up to 100 at a time\rCompleted Missions are displayed below Unfinished Missions
+最大100件一度に受け取ることが可能です。\r達成済みのミッションは未達成のミッションの下部に表示されます。,You can receive up to 100 at a time. \rCompleted Missions are listed below Current Missions
+最大100件一度に受け取ることが可能です\r達成済みのミッションは未達成のミッションの下部に表示されます,You can receive up to 100 at a time\rCompleted Missions are listed below Current Missions
 アイドルランクD以上\nシーズン1最終週のみ挑戦可能,﻿Idol Rank D or Higher\nCan challenge on the last week of Season 1
 思い出アピールレベル2以上\nシーズン2最終週のみ挑戦可能,Memory Appeal Level 2 or Higher\nCan challenge on the last week of Season 2
 ・ラストアピールの☆が多い\n・トップアピールの☆が少ない\n・審査員が強力なアピール力DOWN効果を稀に使用する,·Last Appeal is worth Extra ☆s\n·Top Appeal is worth Fewer ☆s\n·Judges will sometimes use give strong Appeal DOWN effects
 お手製差し入れを作成しました,Created Handmade Goods
-営業完了まで,Until Job is Over
+営業完了まで,Remaining
 お手製差し入れ,Handmade Goods
 未選択,Unselected
 TV出演,Appear on TV
