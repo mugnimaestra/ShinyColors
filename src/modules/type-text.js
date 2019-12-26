@@ -98,7 +98,7 @@ const mypageComments = async (data) => {
           return { 'jp': item, 'zh': '' }
         })
         const str = CSV.unparse(jsonCsv)
-        tryDownload(str, `${homeDeckList[key][0].speakerName}-myPageComments`)
+        tryDownload(str, `${homeDeckList[key][0].speakerName}-myPageComments.csv`)
       })
       config.myPage = 'normal'
       saveConfig()
@@ -110,7 +110,7 @@ const mypageComments = async (data) => {
         return { name: item.name ,'jp': item.comment, 'zh': '' }
       })
       const str = CSV.unparse(jsonCsv)
-      tryDownload(str, `deckMember-myPageComments`)
+      tryDownload(str, `deckMember-myPageComments.csv`)
       config.myPage = 'normal'
       saveConfig()
     }
