@@ -2,8 +2,7 @@ id,name,text,trans
 1002001000410010,灯織,……えっと、この日はダンスレッスンに……,"……Um, Let's have a Dance Lesson on this day……"
 0000000000000,プロデューサー,おはよう。その手帳は……スケジュール帳か,Good Morning. That book is…… the schedule book huh.
 1002001000410020,灯織,"はい
-今、レッスンの予定を組んでいるところです","Yes.
-I'm putting together the lesson plan."
+今、レッスンの予定を組んでいるところです",Yes. I'm putting together the lesson plan.
 0000000000000,プロデューサー,（なるほど、よくやってるんだな）,"(I see, she's doing it well)"
 select,,俺も後で確認しよう,"I'll check
 it later"

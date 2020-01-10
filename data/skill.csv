@@ -7,7 +7,7 @@ Excellent$num倍アピール,Excellent $1x Appeal,
 "自身にメランコリー効果$percent付与","You Receive $1Melancholy"
 全ユニットにメランコリー効果$percent付与,All Units Receive $1Melancholy,
 ライバルにメランコリー効果$percent付与,Rival Units Receive $1Melancholy,
-$noun$percentUP,$1 $2UP,
+$noun$percentUP,$1 $2 UP,
 $noun$percent回復,$1 $2 Recovery,
 $noun$num回復,$1 $2 Recovery,
 $nounUP,$1 UP,
@@ -18,16 +18,16 @@ $noun$num〜$num倍アピール,$1 $2〜$3x Appeal,
 全観客に$noun$num〜$num倍アピール,All Judges $1 $2〜$3x Appeal,
 アピールフェイズ開始時にメンタル$percent回復,Appeal Phase Start $1 Mental Recovery,
 アピールフェイズ開始時メンタル$percent回復,Appeal Phase Start $1 Mental Recovery,
-全ユニットの$noun$percentUP,All Units $1 $2UP,
-[PERFECTなら全ユニットの$noun$percentUP],[On PERFECT All Units $1 $2UP],
+全ユニットの$noun$percentUP,All Units $1 $2 UP,
+[PERFECTなら全ユニットの$noun$percentUP],[On PERFECT All Units $1 $2 UP],
 [PERFECTなら$num倍アピール],[On PERFECT $1x Appeal],
 全ユニットのメンタル$percent回復,All Units $1 Mental Recovery,
 $noun$num倍アピール,$1 $2x Appeal,
 全観客に$noun$num倍アピール,All Judges $1 $2x Appeal,
-$noun最大$num倍アピール,$1 최Large $2x Appeal,
-全観客に$noun最大$num倍アピール,All Judges $1 최Large $2x Appeal,
+$noun最大$num倍アピール,$1 Large $2x Appeal,
+全観客に$noun最大$num倍アピール,All Judges $1 Large $2x Appeal,
 $noun＆$noun$num倍アピール,$1＆$2 $3x Appeal,
-$noun＆$noun$percentUP,$1＆$2 $3UP,
+$noun＆$noun$percentUP,$1＆$2 $3 UP,
 [$numターン],[$1 Turn],
 [条件:$numターン以前],[Condition: Turn Count ≤ $1] ,
 [条件:$numターン以降],[Condition: Turn Count ≥ $1] ,
@@ -60,7 +60,7 @@ $noun＆$noun$percentUP,$1＆$2 $3UP,
 トラブル発生率,Trouble Rate,
 必ず最後にアピールを行い,"Always Appeal Last",
 必ず最初にアピールを行い,"Always Appeal First",
-$noun滞在率,$1 Lag Rate,
+$noun滞在率,$1 Visit Chance,
 興味$percentUP,Interest $1UP,
 興味$percentDOWN,Interest $1DOWN,
 興味DOWN$percent,Interest DOWN $1,
@@ -82,8 +82,8 @@ $noun上限,$1 Upper Limit,
 朝コミュ発生率,Morning Commu Rate,
 約束発生率,Promise Rate,
 $nounが$percentUPする効果,$1 Effect Increased $2,
-受けるメンタルダメージが$percentUPする効果,Mental Damage Received $1UP,
-$nounが$percentDOWNする効果,$1 Effect Decreased $2DOWN,
+受けるメンタルダメージが$percentUPする効果,Mental Damage Received $1 UP,
+$nounが$percentDOWNする効果,$1 Effect Decreased $2 DOWN,
 受ける$nounを$percentCUTする効果,$1 Received $2 CUT,
 思い出アピール,Memory Appeal,
 消費体力$num,Stamina Consumed $1,
@@ -101,6 +101,7 @@ $nounのレベルを$num上昇,Increase $1 Level by $2,
 $noun･$noun･$nounUP,$1･$2･$3 UP,
 $noun･$nounUP,$1･$2 UP,
 限定スキル[$noun上限$num]を解放,Limited Skill[$1 Uncap $2],
+興味無視,Ignore Judge Interest,
 Dance,Dance,noun
 Vocal,Vocal,noun
 Visual,Visual,noun
@@ -137,32 +138,32 @@ Viレッスン,Vi Lesson,noun
 ごくごく稀,Extremely Extremely Rare,other
 ごく稀,Extremely Rare,other
 リンクアピール,Link Appeal,text
-メンタルダメージCUT,멘탈 데미지 CUT,text
+メンタルダメージCUT,Mental Damage CUT,text
 特定のアイドルイベントで解放,Unlocked by certain idol events,text
 特定のサポートイベントで解放,Unlocked by certain support events,text
-体力回復,체력 Recovery,text
-体力が中回復,Stamina Medium Recovery,text
-テンションが中UP,Tension Medium UP,text
-親愛度が中UP,Affection Medium UP,text
-体力が大回復,Stamina Large Recovery,text
-テンションが大UP,Tension Large UP,text
-親愛度が大UP,Affection Large UP,text
-体力が特大回復,Stamina Extra Large Recovery,text
-テンションが特大UP,Tension Extra Large UP,text
-親愛度が特大UP,Affection Extra Large UP,text
-体力が小回復,Stamina Small Recovery,text
-テンションが小UP,Tension Small UP,text
-親愛度が小UP,Affection Small UP,text
-リハ流行Vo,Rehearsal Trend Vo,text
-リハ流行Da,Rehearsal Trend Da,text
-リハ流行Vi,Rehearsal Trend Vi,text
-本番流行Vo,Performance Trend Vo,text
-本番流行Da,Performance Trend Da,text
-本番流行Vi,Performance Trend Vi,text
+体力回復,Stam Heal,text
+体力が中回復,Stam Med Heal,text
+テンションが中UP,Tension Med UP,text
+親愛度が中UP,Trust Med UP,text
+体力が大回復,Stam Lg Heal,text
+テンションが大UP,Tension Lg UP,text
+親愛度が大UP,Trust Lg UP,text
+体力が特大回復,Stam Super Heal,text
+テンションが特大UP,Tension Super UP,text
+親愛度が特大UP,Trust Super UP,text
+体力が小回復,Stam Sm Heal,text
+テンションが小UP,Tension Sm UP,text
+親愛度が小UP,Trust Sm UP,text
+リハ流行Vo,Prep Vo1,text
+リハ流行Da,Prep Da1,text
+リハ流行Vi,Prep Vi1,text
+本番流行Vo,Live Vo1,text
+本番流行Da,Live Da1,text
+本番流行Vi,Live Vi1,text
 全アイドルと七草はづきの絆UP,Increase Bonds of all Idols and Hazuki,text
 限定スキル解放,Unlock Limited Skill,text
 審査員スキル,Judge Skill,text
-思い出アピール未修得の状態です,Memory Appeal Not Yet Ready,text
+思い出アピール未修得の状態です,Memory Appeal Unavailable,text
 真乃,Mano,name
 灯織,Hiori,name
 めぐる,Meguru,name
