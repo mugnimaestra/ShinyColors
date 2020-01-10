@@ -2,24 +2,24 @@
 This type of tool that modifies game files is not allowed per the game Terms of Service.  Please use at your own risk!!!  We are not responsible for any actions taken towards your account if you use this translation tool.
 ## WARNING!!!
 
-## Use
-1. Recommended on Chrome，First install [Tampermonkey](https://tampermonkey.net/) extension
-2. After installing extension，click on script address: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，install as prompted by tampermonkey
-3. Refresh game page
+## Installing on Desktop
+1. It's recommended to run this patch on Chrome
+2. First install the [Tampermonkey](https://tampermonkey.net/) extension
+3. After installing the extension，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，tampermonkey should prompt you to load it
+4. Refresh game page and the patch should work automatically
+(If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
 
-Game Address：[Direct Link](https://shinycolors.enza.fun/home) Recruit-a-friend [Recruit Link](https://go.enza.fun/YLZXbw) to start the game。
+Game Address：[Direct Link](https://shinycolors.enza.fun/home) Recruit-a-friend for biuuu (the original Chinese dev!) [Recruit Link](https://go.enza.fun/YLZXbw)
 
-If on mobile，install a browser that supports scripts，and use the following code。
-```javascript
-(function(){
-  const script = document.createElement('script');
-  script.src = 'https://www.shiny.fun/ShinyColors.user.js';
-  document.head.appendChild(script);
-}())
-```
-Known browsers that support scripts:
-- iOS: Alook
-- Android: Via/Kiwi/米侠/荟萃
+## Installing on Mobile
+1. For mobile，you'll need a browser that supports scripts.  I've succesfully used [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US).
+2. (Return to this page on your new browser)
+3. From Kiwi Browser, install the [Tampermonkey](https://tampermonkey.net/) extension
+4. After installing the extensions，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，tampermonkey should prompt you to load it
+5. Refresh the game page and the patch should work automatically
+(If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
+6. It's recommended to add a shortcut to your home menu so that the game plays fullscreen like a native application:
+<img src="https://github.com/snowyivu/ShinyColors/blob/master/data/image/MobileInstallTutorial1.jpg" alt="Click the ..." width="30%"><img src="https://github.com/snowyivu/ShinyColors/blob/master/data/image/MobileInstallTutorial2.jpg" alt="Click Add to Home Screen" width="30%" align="right">
 
 **Machine translation**
 
