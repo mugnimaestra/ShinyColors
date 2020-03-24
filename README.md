@@ -7,11 +7,14 @@
 
 ---
 ## Introduction
-Get the Patch：[Click Here](https://github.com/snowyivu/ShinyColors/blob/master/src/README.md)
 
-Help with Translations：[Click Here](https://github.com/snowyivu/ShinyColors/tree/master/data)
+<b>!! Get the Patch：[Click Here](https://github.com/snowyivu/ShinyColors/blob/master/src/README.md) !!</b>
 
-## Development
+Questions, Feedback, or want to Help with Translations?：[Join the Discord](https://discord.gg/xuFcKzW)
+
+
+
+## (Development notes for Coders)
 
 ```bash
 # Global Installation yarn

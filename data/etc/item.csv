@@ -1,13 +1,13 @@
 text,trans,type
 使用時プロデュースアイドルの体力が大回復します(プロデュース中3回まで使用可能),When activated it will greatly increase your Produce Idol's Stamina (usable up to 3 times during Produce),
-高級ヒーリングフルーツタルト(3個入り),High Class Healing Fruit Tart (3 included),
+高級ヒーリングフルーツタルト(3個入り),Premium Healing Fruit Tart (3 included),
 プロデュース中の失敗＆大失敗で発生するデメリットを3回無効にします【ファン感謝祭編：失敗＆大失敗発生時にもアイデアが埋まります】,"Will prevent disadvantages from Failure & Catastrophe during Produce up to 3 times【During Thanks Flapping Day: When a Failure & Catastrophe occurs, you will still get Ideas】",
 使用時流行1位をVocalに変更し、2位3位はランダムで変更します,"When activated the #1 trend will switch to Vocal, #2 and #3 will switch randomly",
-Vocal流行雑誌,Vocal Fashion Magazine,
+Vocal流行雑誌,Vocal Trend Magazine,
 使用時流行1位をDanceに変更し、2位3位はランダムで変更します,"When activated the #1 trend will switch to Dance, #2 and #3 will switch randomly",
-Dance流行雑誌,Dance Fashion Magazine,
+Dance流行雑誌,Dance Trend Magazine,
 使用時流行1位をVisualに変更し、2位3位はランダムで変更します,"When activated the #1 trend will switch to Visual, #2 and #3 will switch randomly",
-Visual流行雑誌,Visual Fashion Magazine,
+Visual流行雑誌,Visual Trend Magazine,
 対象のアイドルを選んで獲得できるチケットです,You can acquire the selected idol with this ticket,
 使用時プロデュースアイドルの体力が中回復します（プロデュース中2回まで使用可能）,When activated it will somewhat increase your Produce Idol's Stamina (usable up to 2 times during Produce),
 プチテンションアロマ（3個入り）,Small Tension Aroma (3 included),
@@ -141,11 +141,11 @@ SRのプロデュースアイドルを特訓します[お1人様3つまで],Used
 SR特訓はづきさん（サポート）,SR Evolve Hazuki (Support),
 SRのサポートアイドルを特訓します[お1人様3つまで],Used to evolve an SR Support card [Limit 3 per person],
 フェス参加権が1回復します,Restores 1 Fes Entry Point,
-283プロのキーホルダー,283Pro Keychain,
+283プロのキーホルダー,283 Pro Keychain,
 プロデュース開始時にユニットに編成している全サポートアイドルの絆が小アップします,Slightly increases all Support Idol's bond points,
-283プロのタオル,283Pro Towel,
+283プロのタオル,283 Pro Towel,
 プロデュース開始時にユニットに編成している全サポートアイドルの絆が中アップします,Moderately increases all Support Idol's bond points,
-283プロのTシャツ,283Pro T-Shirt,
+283プロのTシャツ,283 Pro T-Shirt,
 プロデュース開始時にユニットに編成している全サポートアイドルの絆が大アップします,Greatly increases all Support Idol's bond points,
 プロデュース開始時にイルミネーションスターズに所属しているサポートアイドルの絆が小アップします,Slightly increases Illumination STARS Support Idol's bond points at the start of production,
 イルミネーションスターズのTシャツ,Illumination STARS T-Shirt,
@@ -159,7 +159,7 @@ SRのサポートアイドルを特訓します[お1人様3つまで],Used to ev
 プロデュース開始時にアルストロメリアに所属しているサポートアイドルの絆が小アップします,Slightly increases Alstroemeria Support Idol's bond points at the start of production,
 アルストロメリアのTシャツ,Alstroemeria T-Shirt,
 プロデュース開始時にアルストロメリアに所属しているサポートアイドルの絆が大アップします,Greatly increases Alstroemeria Support Idol's bond points at the start of production,
-ストレイライトのTシャツ,Straylight,
+ストレイライトのTシャツ,Straylight T-Shirt,
 プロデュース開始時にストレイライトに所属しているサポートアイドルの絆が大アップします,Greatly increases Straylight Support Idol's bond points at the start of production,
 プロデュース開始時にストレイライトに所属しているサポートアイドルの絆が小アップします,Slightly increases Straylight Support Idol's bond points at the start of production,
 ヒーリングタルト,Healing Tart,
@@ -234,8 +234,8 @@ SSRのサポートアイドルを特訓します,Evolve an SSR Support Idol,
 初心者ミッション10連ガシャが引けるチケットです,A 10-pull ticket that can be earned from beginner missions,
 ユニット別SR以上確定ガシャチケット,Guaranteed SR+ Unit Gacha Ticket,
 ユニット別SR以上確定ガシャが引けるチケットです,Receive a guaranteed SR+ unit gacha ticket,
-セレクションチケットパッケージ10連ガシャチケット,Selection Ticket 10-Roll Gacha Package,
-セレクションチケットパッケージ10連ガシャが引けるチケットです,A package that contains a selection ticket and a 10-roll gacha ticket,
+セレクションチケットパッケージ10連ガシャチケット,Selection Ticket 10-Roll Gacha Bundle,
+セレクションチケットパッケージ10連ガシャが引けるチケットです,A bundle that contains a selection ticket and a 10-roll gacha ticket,
 283くじ10連ガシャチケット,283 Lottery 10-roll Gacha Ticket,
 283くじ10連ガシャが引けるチケットです,Receive a 10-roll Gacha Ticket and 283 Lottery Ticket,
 イルミネSR以上確定ガシャチケット,Illumination STARS SR+ Gacha Ticket,
@@ -252,7 +252,7 @@ SSR10％ガシャチケット,SSR10% Gacha Ticket,
 SSR10％ガシャが引けるチケットです,Ticket that lets you draw the SSR10% gacha,
 SSR15％ガシャチケット,SSR15% Gacha Ticket,
 SSR15％ガシャが引けるチケットです,Ticket that lets you draw the SSR15% gacha,
-対象のSRプロデュースアイドルを選んで獲得できるチケットです,A ticket that allows you to select a specific SR Produce Idol,
+対象のSRプロデュースアイドルを選んで獲得できるチケットです,A ticket that lets you to select a specific SR Produce Idol,
 [月2個まで購入可能],[Up to 2 purchases per month],limit
 [月5個まで購入可能],[Up to 5 purchases per month],limit
 [月10個まで購入可能],[Up to 10 purchases per month],limit
@@ -279,4 +279,4 @@ SSR15％ガシャが引けるチケットです,Ticket that lets you draw the SS
 サポート,Support,note
 プロデュース中2回まで使用可能,Usable up to 2 times during Produce,note
 プロデュース中3回まで使用可能,Usable up to 3 times during Produce,note
-効果量は約束発生毎に減少し4回で効果がなくなる,"The effect decreases with each promise occurrence, and stops after 4 promises",note
+効果量は約束発生毎に減少し4回で効果がなくなる,"Effect slightly increases the chance of being asked to make a promise, up to 4 times. Effect decreases after each promise.",note
